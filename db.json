@@ -3,21 +3,31 @@
     {
       "id": 1,
       "name": "Setup Server",
-      "isComplete": true
+      "isComplete": false
     },
     {
       "id": 2,
       "name": "Start Server",
-      "isComplete": true
-    },
-    {
-      "id": 3,
-      "name": "Connect to Server",
       "isComplete": false
     },
     {
       "id": 4,
       "name": "Setup fetch",
+      "isComplete": false
+    },
+    {
+      "id": 2419,
+      "name": "New todo",
+      "isComplete": false
+    },
+    {
+      "id": 66128,
+      "name": "Another new todo",
+      "isComplete": false
+    },
+    {
+      "id": 44920,
+      "name": "another",
       "isComplete": false
     }
   ]
